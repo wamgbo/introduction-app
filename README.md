@@ -39,12 +39,6 @@
 - 動畫（Lottie / Flutter Animate）
 - 切換主題、字體大小
 
----
-
-## 🖼️ 畫面截圖（示意）
->（如你提供 screenshot，我可以幫你放上去）
-
-
 
 
 # autobiography
